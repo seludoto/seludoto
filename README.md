@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seludoto
+- 👋 Hi, I’m @dolese interprises
 - 👀 I’m interested in coding languages 
 - 🌱 I’m currently learning how can intergrate codes 
 - 💞️ I’m looking to collaborate on pi network
